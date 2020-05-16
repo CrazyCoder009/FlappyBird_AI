@@ -9,6 +9,7 @@ A simple from scratch implementation of Feed Forward Neural Network on the famou
 ## Config:
 1. You can configure the Neural Net properties from the config-feedforward.txt file.(eg:- No. of neurons,population etc)
 
+![FlappyBirdAI](FlappyBirdAI.jpg)
 
 A Huge Shoutout to Tech with Tim, without whom I wouldn't have learnt how to design and make the game from scratch along with the AI behind it. 
 
