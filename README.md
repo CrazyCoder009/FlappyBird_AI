@@ -1,4 +1,4 @@
-# FlappyBird_AI
+## FlappyBird_AI
 A simple from scratch implementation of Feed Forward Neural Network on the famous Flappy Bird game. The network teaches itself how to play the game through simultaneous generations over a period of time. The framework used is NEAT in Python to teach the AI. 
 
 Setup:
